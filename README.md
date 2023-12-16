@@ -1,6 +1,6 @@
 # AlonePong in Lua
 
-Welcome to the Lua version of AlonePong in the Pongtopia project! In this implementation, you'll experience the classic Pong game with a unique twist: you control a single paddle that bounces the ball against the bottom and side walls. Enjoy OldSchool stress-free moments while exploring Lua for game development.
+Welcome to the Lua version of AlonePong in the PongCraft project! In this implementation, you'll experience the classic Pong game with a unique twist: you control a single paddle that bounces the ball against the bottom and side walls. Enjoy OldSchool stress-free moments while exploring Lua for game development.
 
 ## How to Run
 
@@ -15,12 +15,13 @@ To run AlonePong in Lua, follow these steps:
 love main.lua
 ```
 
-
 That's it! You can now enjoy the game and explore Lua for game development. The game logic is implemented in the "main.lua" file.
+
 
 ## Technologies Used
 
 This implementation of AlonePong is written in Lua and uses the LÖVE framework for game development.
+
 
 ## Feedback and Contributions
 
